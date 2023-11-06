@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "momapp-wellbeing",
+  "private_key_id": "137d432a04a674a26784d76362786181ce6a0558",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCagw36r9hqwiI4\nNs69Eht9UVd2EISqulYPUszEWi3Qj1agk90hwnFY1EF7usHC+4RVdz3+Y7R2xJ1h\nrNgen0tLw+MoCP7bOGAUL9zsZmUVg6NFrA6AVA9FWKMBz1uq7Ix0avTEqymf3yy8\nSAWA96ixFRHE3f4kfs/fu5LpDwvIXX6sVEwU+Q3i3JDPlucsvzj3xrIvw5vUg28X\nOWSnnXuN06XaH8qhtLfmTtfOjeYSZuPllE4eaMaew/wdiB+MYdTUVgmrdIr554/k\nqFkTfVUpKLNvnENiLvOyEEP2T3l3AfqV4cWXKdkJrzd+q9x99CiSGm34uIXfWlzH\ngI63GoHTAgMBAAECggEAPKMU/941wQPp+QStUq8CAcbD26402mmhL4dPm/lGBJTU\nKtWMkVylLfaysjODKhmaAA55UlXfs0KK/xOdhzr9ikDYa1RIbFDuB84W1eGDZxOP\npl6VHFCg45aa9jFh6KzHnEKDR5Filv63KDbdjhTja4d4vzldrQXlX4jV6UfB2IIY\ngzDmko1HcEvUX7tHgr41zM8x9l4juQbe5djZybqKxYUpdDr8BOXw9uSdkiaicvcL\n8+G9zDmytecrGnX14HX7MOZIqMAoeXyznpflVx/ZMdjgmQaxvGu3ENXHSzgphr1x\nihsTk+I8IUodLAubmz5o7ghdu9S2cZpqo6rTMdnI0QKBgQDHRswPZyDyF20wOFUX\nkir1BdheiVRm5b+0XtimlVrmojPpr67PHL4FKu7Ah69vTLedPmb2VKaigBKItjv0\n6bKK/qW/LLMVGg9E57d1VxQAH4A69zpATqUOpXxRZFdNoZTSasbRdH1rq6FGBiBf\np5ijAKSd6XRPFXL6eNwkxcmWMQKBgQDGfkcMdvEjB7dLfmRAtKUw44iBHL8A3TNb\n6mRW3gaOkcYn6ztlKE58GT8SB1aoKmeRCVoWVsZvymhm10JecIAaJ0r/jLUYjbYm\ntuSOzWAY21BOxBEP8KwBcOvL0jM1S6ZbayzQPk5yHrZzuKXZG6x8sLJJq4SC2bit\n+madG2ejQwKBgGjRbHSNol60w9IhT2DemYnYUT8orSSSpIuTeBHnbbDykKvSpPh7\n/ddqBbtvo2+/wrULJc1cKWpAQ391m4PviOJjn3s3X9sxoeZ0m6M08mg+KYzajeFV\nfKx/jyygwusqmsUzNPDnfTEtTd8vScgGt9rFc9E8Atm2RoxJFkKhZq+BAoGAJf+S\nll5Gt1AI1NjzVDfAz+UfAqiAICg4ZsYuQzrpwm1Bo+6yRiE7NSKYIllpS3Qis284\n4cHm5wu2hMl8mRusSlVvVBCZsoOedTbZ9kR2uwtxCkMaiRSnuPbnDPPGfdNnm2Sf\nBZaH6ezbPLgCd9eGY7Bn0RaWnX4Ujqm67ySJ6IUCgYEAj3jbvGX0hkBUehybHSOG\niHnvsTejU3K3nwgl09RilgASBW3pa0iq0OMejtJUEcMKMIXJXB0ZTwBHr6HyrNKh\nY6vxc2W+VAheeDwqXD/Ep5Y5VSFy7I8+riofdC0XaOWiNo9c2zrh7pmA3kc6qWf8\njX7mumfvo6W8O+hbCtJ5MII=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d2btv@momapp-wellbeing.iam.gserviceaccount.com",
+  "client_id": "104405280649360081876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d2btv%40momapp-wellbeing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
